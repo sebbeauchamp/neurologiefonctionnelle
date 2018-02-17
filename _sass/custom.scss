@@ -1,0 +1,224 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+body{
+  font-family: 'HKGrotesk', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+}
+.main-logo{
+  width: 100px;
+  position: absolute ;
+  right: 20px;
+  top:12px;
+}
+
+h1{
+  font-size: 72px;
+  color: $secondary;
+  letter-spacing: 0;
+  line-height: 72px;
+  font-weight: bold;
+  margin-bottom: 40px;
+
+  @include media-query($on-palm){
+    font-size: 32px;
+    line-height: 32px;
+  }
+}
+
+h2{
+  font-size: 28px;
+  color: $brand-color;
+  letter-spacing: 0;
+  line-height: 36px;
+
+  @include media-query($on-palm){
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+
+button.nav{
+    small{
+      font-weight: bold;
+    }
+}
+button.nav:hover{
+    cursor: pointer;
+    text-decoration: none;
+    opacity: 0.5;
+}
+a.nav{
+  margin-bottom: 12px;
+  line-height: 1
+}
+
+a.nav:hover{
+  text-decoration: none;
+  color:$secondary;
+}
+
+.page-section{
+    position: relative;
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+    @include media-query($on-palm){
+      margin-top: 0px;
+    }
+}
+
+.page-top-section,
+{
+    h2{
+    margin-bottom: 40px;
+    }
+
+    img{
+      margin-top: 80px;
+    }
+  }
+
+.image-section{
+    margin-bottom: 80px;
+}
+
+.img-formation{
+  margin-top: 0px !important;
+  margin-bottom: 40px;
+
+  // @include media-query($on-palm){
+  //   margin-bottom: 40px;
+  // }
+}
+
+.page-color-section{
+  background-color: #F7F5F0;
+  padding: 80px 0px;
+}
+
+.left-content{
+  position: relative;
+}
+
+.img-background{
+  position: absolute;
+  z-index: -100;
+  width:75%;
+  right:0px;
+  top:80px;
+}
+
+span.section-intro{
+  color:$tertiary;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.border-section{
+  border-bottom: solid 1px $gray-lighter;
+}
+
+// .btn{
+//   padding: 8px 24px;
+//   font-size: 16px;
+//   font-weight: bold;
+//   line-height: 32px;
+// }
+.btn-rounded {
+  border-radius: 100px;
+}
+// .btn-primary{
+//   color:$white;
+// }
+
+.btn-secondary{
+  background-color: $secondary;
+  color:#fff;
+  border-color: $secondary;
+}
+
+.btn-outline-secondary{
+  border-color: $secondary;
+  color: $secondary;
+}
+
+ol{
+  list-style: none;
+  li{
+    counter-increment: item;
+    margin-bottom: 5px;
+    font-size: $base-font-size;
+    margin-left: 48px;
+
+  }
+  li:before {
+    font-size: 24px;
+    font-weight: bold;
+    color: $secondary;
+   width:80px;
+   content: "." "0"counter(item);
+   list-style-type: decimal-leading-zero;
+    display: inline-block;
+    width: 98px;
+    margin-left: -150px;
+    margin-right: 48px;
+    text-align: right;
+    direction: rtl;
+  }
+}
+
+.module-section{
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: solid 1px $gray-lighter;
+
+  h2{
+  margin-bottom: 8px;
+  }
+
+}
+
+.inscription-bar{
+  background-color: $white;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  -webkit-box-shadow: 0px -4px 24px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 0px -4px 24px 0px rgba(0,0,0,0.1);
+box-shadow: 0px -4px 24px 0px rgba(0,0,0,0.1);
+text-align: center;
+z-index: 100;
+}
+
+a.footer-link, label.footer-newsletter{
+    display: block;
+    color:$gray-dark;
+    margin-bottom: 8px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.footer-logo{
+  width: 100%;
+}
+
+.mail-input{
+  border-radius: 100px;
+  background-color: transparent;
+}
+
+footer{
+   .btn{
+  line-height: inherit;
+  }
+  input.form-control:focus{
+    border-color: $secondary;
+    background-color: transparent;
+  }
+  .submit{
+    padding: 0.5em 0.75em
+  }
+}

@@ -1,0 +1,62 @@
+<footer class="site-footer page-color-section">
+
+  <div class="wrapper container">
+      <div class="row">
+        <div class="col-md-1 hidden-sm-down">
+          <a class="footer-link" href="/"><img class="footer-logo" src="/img/footer-logo.svg" alt="Institut neurologie fonctionnelle" /></a>
+        </div>
+        <div class="col-md-3">
+    {% for path in page_paths %}
+      {% assign my_page = site.pages | where: "path", path | first %}
+      {% if my_page.nav-name %}
+      <a class="footer-link" href="{{ my_page.url | relative_url }}">{{ my_page.nav-name | escape }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="col-md-3">
+<a class="footer-link" href="mailto:iqmfinfo@gmail.com">Contactez-nous</a>
+<a class="footer-link" target="_blank" href="https://www.facebook.com/Institut-Québécois-de-Médecine-Fonctionnelle-916622461847082/">Suivez-nous sur Facebook</a>
+<a class="footer-link" href="#" data-toggle="modal" data-target="#MentionsLegales">Mentions Légales</a>
+</div>
+<div class="col-md-5 col-sm-11">
+  <!-- Begin MailChimp Signup Form -->
+	<label class="footer-newsletter" for="mce-EMAIL">Inscrivez-vous à notre infolettre</label>
+<form class="form-inline" action="//sebastienbeauchamp.us5.list-manage.com/subscribe/post?u=2a93a1fe7b356363d43854909&amp;id=3a352c1da3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div class="form-group" id="mc_embed_signup_scroll">
+	<input class="form-control mail-input" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email@courriel.com" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+      <input type="text" name="b_2a93a1fe7b356363d43854909_3a352c1da3" tabindex="-1" value="">
+    </div>
+  </div>
+    <input type="submit" value="Go" name="subscribe" id="mc-embedded-subscribe" class="btn btn-secondary btn-rounded ml-1 submit">
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+  </div>
+
+  </div>
+
+</footer>
+
+<!-- Modal Mentions Légales-->
+<div class="modal fade" id="MentionsLegales" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        Mentions Légales
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>
+          L’Institut de neurologie fonctionnelle n’accorde pas de statut légal additionnel ou de spécialité. Il est de la responsabilité du participant d’utiliser l’information de manière à se conformer avec les lois en ce qui a trait avec son champ de pratique spécifique et son code de profession. L’information contenue dans cette formation est destinée à être de l’information générale seulement et ne devrait en aucun cas être utilisée pour diagnostiquer, traiter, guérir ou prévenir les maladies.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

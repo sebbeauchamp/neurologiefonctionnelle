@@ -1,0 +1,28 @@
+<header class="navbar navbar-light">
+    <div class="row">
+      {% assign default_paths = site.pages | map: "path" %}
+      {% assign page_paths = site.header_pages | default: default_paths %}
+
+      <div class="collapse" id="navbarToggleExternalContent">
+        <div class="navbar">
+          {% for path in page_paths %}
+          {% assign my_page = site.pages | where: "path", path | first %}
+          {% if my_page.nav-name %}
+          <a class="nav h1" href="{{ my_page.url | relative_url }}">{{ my_page.nav-name | escape }}</a>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+      <nav>
+        <button class="btn btn-link text-primary pl-0 nav" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+          <img class="mr-2" src="/img/icons/menu.svg"/> <small>Menu</small>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img class="main-logo" src="/img/footer-logo.svg" alt="Institut neurologie fonctionnelle">
+        </a>
+
+      </nav>
+
+</header>
