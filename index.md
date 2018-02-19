@@ -44,7 +44,7 @@ permalink: /
     <div class=" row justify-content-center">
       <div class="text-center col-lg-9">
         <span class="section-intro">Qu’est-ce que la neurologie fonctionnelle ?<br/>—</span>
-        <h2>La neurologie fonctionnelle met l’accent sur les interactions entre l’environnement et les différents systèmes tels que le système digestif, endocrinien et immunitaire.</h2>
+        <h2>La neurologie fonctionnelle met l'accent sur l'impact du stress chimique, physique ou émotionnel sur le système nerveux.</h2>
         <a class="btn btn-rounded btn-outline-secondary" href="/neurologiefonctionnelle/">En savoir plus</a>
       </div>
     </div>
