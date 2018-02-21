@@ -19,59 +19,46 @@ permalink: /formateurs/
 
 <div class="container page-section border-section">
   <div class=" row">
-    <div class="col-md-4">
-      <div class="module-section">
-        <span class="section-intro">Conférencier principal</span>
-        <h3>Dr Sébastien Houle </h3>
-        <p>Chiropraticen D.C</p>
-        <!-- Button trigger modal -->
-        <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#dr01">
-          Plus de détails
-        </a>
+    <div class="col-md-12">
+      <div class="speaker-section" data-toggle="modal" data-target="#dr01" >
+      <img class="img-speaker" src="/img/drsebastienhoule.jpg"/>
+        <span class="speaker-title">Conférencier et organisateur</span>
+        <h4>Dr Sébastien Houle </h4>
+        <p>Chiropraticien D.C, M.Sc.</p>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="module-section">
+    </div>
+    <div class=" row">
+    <div class="col-md-6">
+    <div class="speaker-section" data-toggle="modal" data-target="#dr02">
+        <img class="img-speaker" src="/img/drpierrearsenault.jpg"/>
         <span class="section-intro">Conférencier invité</span>
-        <h3>Dr Pierre Arsenault</h3>
+        <h4>Dr Pierre Arsenault</h4>
         <p>Médecin de famille</p>
-        <!-- Button trigger modal -->
-        <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#dr02">
-          Plus de détails
-        </a>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="module-section">
-        <span class="section-intro">Conférencier invité</span>
-        <h3>Dre Anne-Marie Blouin</h3>
+    <div class="col-md-6">
+    <div class="speaker-section" data-toggle="modal" data-target="#dr03">
+    <img class="img-speaker" src="/img/dranne-marieblouin.jpg"/>
+    <span class="section-intro">Conférencier invité</span>
+        <h4>Dre Anne-Marie Blouin</h4>
         <p>DMD</p>
-        <!-- Button trigger modal -->
-        <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#dr03">
-          Plus de détails
-        </a>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="module-section">
-        <span class="section-intro">Conférencier invité</span>
-        <h3> Dr François Fortin</h3>
+    <div class="col-md-6">
+    <div class="speaker-section" data-toggle="modal" data-target="#dr04">
+    <img class="img-speaker" src="/img/drfrancoisfortin.jpg"/>
+    <span class="section-intro">Conférencier invité</span>
+        <h4> Dr François Fortin</h4>
         <p>Chiropraticien D.C.</p>
-        <!-- Button trigger modal -->
-        <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#dr04">
-          Plus de détails
-        </a>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="module-section">
-        <span class="section-intro">Conférencier invité</span>
-        <h3>Dr Maxime Lavoie</h3>
+    <div class="col-md-6">
+    <div class="speaker-section" data-toggle="modal" data-target="#dr05">
+    <img class="img-speaker" src="/img/drmaximelavoie.jpg"/>
+    <span class="section-intro">Conférencier invité</span>
+        <h4>Dr Maxime Lavoie</h4>
         <p>Chiropraticien D.C.</p>
-        <!-- Button trigger modal -->
-        <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#dr05">
-          Plus de détails
-        </a>
       </div>
     </div>
   </div>
@@ -88,12 +75,12 @@ permalink: /formateurs/
       </div>
       <div class="modal-body">
         <h3>Dr Sébastien Houle </h3>
-        <p>Chiropraticen D.C</p>
+        <p>Chiropraticien D.C, M.Sc.</p>
         <p>Le Dr Houle est un chiropraticien de la ville de Magog dédié à ses patients et à la communauté. Il est président du chapitre canadien du Collège international de kinésiologie appliquée. Il est aussi le plus jeune à avoir siégé sur le International Board of Examiners du Collège international de kinésiologie appliquée. Il a été directeur de la recherche et aussi le représentant du Québec du chapitre canadien du Collège international de kinésiologie appliquée.</p>
 
         <p>L’expertise du Dr Houle, chiropraticien, est en Chiropratique, neurologie fonctionnelle et kinésiologie appliquée. Il a plusieurs publications dans des journaux révisés par des pairs traitant de chiropratique, neurologie chiropratique, neurophysiologie et neurosciences.</p>
 
-        <p>Dr Houle, chiropraticien, est gradué du Doctorat de premier cycle en Chiropratique de l’Université du Québec à Trois-Rivières en 2009. Juste précédant sa graduation, il reçoit la bourse d’excellence en Sciences de la Santé du Groupe Jean Coutu et de la Fondation de l’Université du Québec (2008). Il possède aussi une maîtrise en biophysique et biologie cellulaires l’Université du Québec à Trois-Rivières, obtenue en 2012, pour ses recherches sur l’impact de la douleur spinale et l’inflammation chroniques sur les réponses somato-autonomiques. Durant ses recherches et études à la maîtrise, il se voit accorder plusieurs bourses d’excellence et de recherche : La bourse d’excellence en biophysique et biologie cellulaires (2010) de la Fondation de l’Université du Québec à Trois-Rivières, la bourse d’excellence du Département de Chimie-Biologie (2010) de la Fondation de l’Université du Québec à Trois-Rivières, et des bourses d’études de la fondation de recherche en chiropratique du Québec (2009 et 2010). Après de nombreuses heures post-graduées du Collège international de kinésiologie appliquée et avoir réussi avec succès les examens, le Dr Houle, chiropraticien, reçoit le statut de Diplomate du Collège international de kinésiologie appliquée en 2012, ce qui lui donne le droit d’enseigner la kinésiologie appliquée. Il est membre de l’Ordre des Chiropraticiens du Québec depuis 2009, de l’Association des Chiropraticiens du Québec depuis 2009, membre du Collège international de kinésiologie appliquée depuis 2009 et du Board of Certified Teachers du Collège international de kinésiologie appliquée depuis 2012. En 2017, il obtient sa certification en médecine fonctionnelle du Functional medicine University et fonde la même année, l’Institut Québécois de Médecine Fonctionnelle.</p>
+        <p>Dr Houle, chiropraticien, est gradué du Doctorat de premier cycle en Chiropratique de l’Université du Québec à Trois-Rivières en 2009. Juste précédant sa graduation, il reçoit la bourse d’excellence en Sciences de la Santé du Groupe Jean Coutu et de la Fondation de l’Université du Québec (2008). Il possède aussi une maîtrise en biophysique et biologie cellulaires l’Université du Québec à Trois-Rivières, obtenue en 2012, pour ses recherches sur l’impact de la douleur spinale et l’inflammation chroniques sur les réponses somato-autonomiques. Durant ses recherches et études à la maîtrise, il se voit accorder plusieurs bourses d’excellence et de recherche : La bourse d’excellence en biophysique et biologie cellulaires (2010) de la Fondation de l’Université du Québec à Trois-Rivières, la bourse d’excellence du Département de Chimie-Biologie (2010) de la Fondation de l’Université du Québec à Trois-Rivières, et des bourses d’études de la fondation de recherche en chiropratique du Québec (2009 et 2010). Après de nombreuses heures post-graduées du Collège international de kinésiologie appliquée et avoir réussi avec succès les examens, le Dr Houle, chiropraticien, reçoit le statut de Diplomate du Collège international de kinésiologie appliquée en 2012, ce qui lui donne le droit d’enseigner la kinésiologie appliquée. Il est membre de l’Ordre des Chiropraticiens du Québec depuis 2009, de l’Association des Chiropraticiens du Québec depuis 2009, membre du Collège international de kinésiologie appliquée depuis 2009 et du Board of Certified Teachers du Collège international de kinésiologie appliquée depuis 2012. En 2017, il obtient sa certification en médecine fonctionnelle du Functional medicine University et fonde la même année, l’Institut de Neurologie Fonctionnelle.</p>
 
         <p>Il a beaucoup de plaisir à enseigner et partager ses connaissances en kinésiologie appliquée, neurologie, nutrition clinique et comment prodiguer des traitements aux patients avec succès. Il a enseigné au Canada à des professionnels de la santé de multiples disciplines qui voulaient élargir leurs connaissances.</p>
       </div>

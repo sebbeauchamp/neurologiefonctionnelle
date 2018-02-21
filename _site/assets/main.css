@@ -6645,10 +6645,7 @@ body {
   font-family: 'HKGrotesk', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
 
 .main-logo {
-  width: 100px;
-  position: absolute;
-  right: 20px;
-  top: 12px; }
+  width: 180px; }
 
 h1 {
   font-size: 72px;
@@ -6696,6 +6693,9 @@ a.nav:hover {
     .page-section {
       margin-top: 0px; } }
 
+.page-content {
+  margin-top: 40px; }
+
 .page-top-section h2 {
   margin-bottom: 40px; }
 .page-top-section img {
@@ -6722,11 +6722,21 @@ a.nav:hover {
   right: 0px;
   top: 80px; }
 
-span.section-intro {
+.speaker-section {
+  cursor: pointer;
+  margin-bottom: 40px; }
+
+.img-speaker {
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: 20px; }
+
+span.section-intro, span.speaker-title {
   color: #0827CC;
   font-size: 12px;
   text-transform: uppercase;
-  font-weight: bold; }
+  font-weight: bold;
+  display: block; }
 
 .border-section {
   border-bottom: solid 1px #eceeef; }
@@ -6763,6 +6773,9 @@ ol {
     margin-right: 48px;
     text-align: right;
     direction: rtl; }
+
+.speaker-section {
+  text-align: center; }
 
 .module-section {
   margin-bottom: 40px;

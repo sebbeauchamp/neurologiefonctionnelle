@@ -6,10 +6,7 @@ body{
 
 }
 .main-logo{
-  width: 100px;
-  position: absolute ;
-  right: 20px;
-  top:12px;
+  width: 180px;
 }
 
 h1{
@@ -66,6 +63,9 @@ a.nav:hover{
       margin-top: 0px;
     }
 }
+.page-content{
+  margin-top: 40px;
+}
 
 .page-top-section,
 {
@@ -108,11 +108,22 @@ a.nav:hover{
   top:80px;
 }
 
-span.section-intro{
+.speaker-section{
+  cursor:pointer;
+  margin-bottom: 40px;
+}
+.img-speaker{
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+span.section-intro, span.speaker-title{
   color:$tertiary;
   font-size: 12px;
   text-transform: uppercase;
   font-weight: bold;
+  display: block;
 }
 
 .border-section{
@@ -166,6 +177,9 @@ ol{
     text-align: right;
     direction: rtl;
   }
+}
+.speaker-section{
+  text-align: center;
 }
 
 .module-section{
