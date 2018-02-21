@@ -1,6 +1,5 @@
 
 <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
-  <div class="container">
 
   {% assign default_paths = site.pages | map: "path" %}
   {% assign page_paths = site.header_pages | default: default_paths %}
@@ -23,7 +22,6 @@
       {% endfor %}
 
     </ul>
-  </div>
 </div>
 
 </nav>
