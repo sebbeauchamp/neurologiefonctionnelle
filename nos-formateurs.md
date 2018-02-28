@@ -61,6 +61,14 @@ permalink: /formateurs/
         <p>Chiropraticien D.C.</p>
       </div>
     </div>
+    <div class="col-md-6">
+    <div class="speaker-section" data-toggle="modal" data-target="#dr06">
+    <img class="img-speaker" src="/img/dreraphaelleraymond-saine.jpg"/>
+    <span class="section-intro">Conférencier invité</span>
+        <h4>Dre Raphaelle Raymond-Saine</h4>
+        <p>Chiropraticienne DC</p>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -215,6 +223,28 @@ permalink: /formateurs/
         <li>Assistant dans la formation : L’application biomécanique de la kinésiologie appliquée - formation de 50 heures en kinésiologie appliquée – de 2015 à 2017</li>
         <li>Chiropraticien au sein d’une équipe multi-disciplinaire à la Clinique Santé du Quartier sur le plateau Mont-Royal (Montréal).</li>
       </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="dr06" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+      <span class="section-intro">Biographie</span>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <h3>Dre Raphaelle Raymond-Saine</h3>
+      <h4>Chiropraticienne DC</h4>
+      <p>Je suis diplômée au doctorat en Chiropratique de l'UQTR depuis 2007.  J'ai pratiqué près de 6 ans dans la région de Montmagny avant de revenir dans la région de la capitale nationale en 2014 avec l'équipe d'Accès Santé 2000.</p>
+      <p>J'ai débuté ma formation en neurologie fonctionnelle, une spécialité de la Chiropratique, en 2009 avec le Carrick Institute et j'ai obtenu mon diplôme en 2014.</p>
+      <p>J'ai depuis suivi une formation spécifique aux troubles neuro-développementaux (TDA/H, Autisme, Tics, Trouble oppositionnel...) chez les enfants avec le Dr Melillo. Ainsi qu'une formation sur les traumatismes crâniens (Commotion cérébrale, TCC léger) avec Dr Carrick, reconnu pour avoir traité Sydney Crosby suite à sa commotion.</p>
+      <p>En parallèle, j'ai aussi suivi plusieurs formations en Kinésiologie Appliquée.</p>
+      <p>Je vois des patients de tous les horizons et de tous les âges. Que ce soit pour des soins de soulagements, de réhabilitation ou à titre préventif, il me fera plaisir de vous accompagner vers une meilleur santé et une qualité de vie qui vous permettra de vous accomplir pleinement.</p>
       </div>
     </div>
   </div>
