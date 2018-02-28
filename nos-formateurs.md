@@ -17,7 +17,7 @@ permalink: /formateurs/
 </div>
 
 
-<div class="container page-section border-section">
+<div class="container page-section">
   <div class=" row">
     <div class="col-md-6">
       <div class="speaker-section" data-toggle="modal" data-target="#dr01" >
