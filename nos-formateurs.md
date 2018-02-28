@@ -19,7 +19,7 @@ permalink: /formateurs/
 
 <div class="container page-section border-section">
   <div class=" row">
-    <div class="col-md-12">
+    <div class="col-md-6">
       <div class="speaker-section" data-toggle="modal" data-target="#dr01" >
       <img class="img-speaker" src="/img/drsebastienhoule.jpg"/>
         <span class="speaker-title">Conférencier et organisateur</span>
@@ -27,8 +27,6 @@ permalink: /formateurs/
         <p>Chiropraticien D.C, M.Sc.</p>
       </div>
     </div>
-    </div>
-    <div class=" row">
     <div class="col-md-6">
     <div class="speaker-section" data-toggle="modal" data-target="#dr02">
         <img class="img-speaker" src="/img/drpierrearsenault.jpg"/>
