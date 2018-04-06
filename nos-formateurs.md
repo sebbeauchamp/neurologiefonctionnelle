@@ -2,7 +2,7 @@
 layout: page
 title: Nos formateurs
 excerpt: Nos formateurs offrent une formation sur la neurologie fonctionnelle de la plus haute qualité aux professionnels de la santé
-nav-name: Nos formateurs
+nav-name: Formateurs
 permalink: /formateurs/
 ---
 
@@ -65,6 +65,14 @@ permalink: /formateurs/
     <span class="section-intro">Conférencier invité</span>
         <h4>Dre Raphaelle Raymond-Saine</h4>
         <p>Chiropraticienne DC</p>
+      </div>
+    </div>
+    <div class="col-md-6">
+    <div class="speaker-section" data-toggle="modal" data-target="#dr07">
+    <img class="img-speaker" src="/img/dresophiestavrinidis.jpg"/>
+    <span class="section-intro">Conférencier invité</span>
+        <h4>Dre Sophie Stavrinidis</h4>
+        <p> MD, FRCP, IFMCP</p>
       </div>
     </div>
   </div>
@@ -243,6 +251,27 @@ permalink: /formateurs/
       <p>J'ai depuis suivi une formation spécifique aux troubles neuro-développementaux (TDA/H, Autisme, Tics, Trouble oppositionnel...) chez les enfants avec le Dr Melillo. Ainsi qu'une formation sur les traumatismes crâniens (Commotion cérébrale, TCC léger) avec Dr Carrick, reconnu pour avoir traité Sydney Crosby suite à sa commotion.</p>
       <p>En parallèle, j'ai aussi suivi plusieurs formations en Kinésiologie Appliquée.</p>
       <p>Je vois des patients de tous les horizons et de tous les âges. Que ce soit pour des soins de soulagements, de réhabilitation ou à titre préventif, il me fera plaisir de vous accompagner vers une meilleur santé et une qualité de vie qui vous permettra de vous accomplir pleinement.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="dr07" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+      <span class="section-intro">Biographie</span>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <h3>Dre Sophie Stavrinidis</h3>
+      <h4>MD, FRCP, IFMCP</h4>
+      <p>Elle a obtenu son diplome de médecine de l’Université de Montréal en 1989. Elle a ensuite obtenu ses certifications de spécialiste (FRCP) en Médecine Interne en 1994 puis en Cardiologie à l’université McGill en 1996. Elle a étudié les cardiopathie congénitales à UCLA et a travaillé au CHUS (Sherbrooke) de 1997 à 2000 où elle a enseigné la cardiologie et l’embryologie cardiaque.</p>
+      <p>Tout en poursuivant sa pratique de cardiologie à Montréal, Dre Stavrinidis a cherché à mieux comprendre la santé et ses mécanismes sous-jacents . Elle a exploré les approches alternatives et a suivi des formations d’acupuncture à la Fondation d’Acupuncture du Canada et au CEGEP de Rosemont en 2003, en ostéopathie (medicine manuelle) ainsi qu’en naturopathie (nutrition et medicine fonctionnelle). Elle a obtenu sa certification de l’Institut de Médecine Fonctionnelle en 2016.</p>
+      <p>De 2015 à 2017, elle a travaillé au Centre de Médecine Intégrative de Montréal. Elle continue sa pratique de cardiologie et de médecine interne avec approche integrative et fonctionnelle à la Clinique Cardiolistik, qu’elle a créé en 2014.
+Elle a aussi formé une association Québécoise de médecins pour la medicine integrative en 2013 et fait partie des membres fondateurs/directeurs du CIMA (Association Canadienne de Médecine Intégrative).</p>
       </div>
     </div>
   </div>

@@ -2,7 +2,7 @@
 layout: page
 title: Notre formation sur la neurologie fonctionnelle
 excerpt: Une formation sur la neurologie fonctionnelle de la plus haute qualité aux professionnels de la santé
-nav-name: Notre formation
+nav-name: Formation
 permalink: /formation/
 ---
 
