@@ -33,9 +33,7 @@ permalink: /formation/
       <p>
         Les praticiens qui ne répondent pas aux critères d'admissibilité ci-dessus peuvent cependant <a href="mailto:iqmfinfo@gmail.com">formuler une demande en nous écrivant</a>. Les candidatures  sont évaluées au cas par cas selon le niveau du programme de leur précédente la formation, et l'expérience clinique.
       </p>
-        <a class="btn btn-rounded btn-primary btn-lg" target="_blank" href="https://www.eventbrite.ca/e/billets-certification-en-medecine-fonctionnelle-38152744887">
-              Je m'inscris
-      </a>
+      <h3>Inscrivez-vous à l’infolettre pour connaître les prochaines dates.</h3>
     </div>
 
     <div class="col-lg-4 push-lg-1">
@@ -43,7 +41,7 @@ permalink: /formation/
         <span class="section-intro">Module 01 — </span>
         <h2>Introduction à la neurologie fonctionnelle</h2>
         <p>
-          14-15 avril 2018
+          À venir
         </p>
         <!-- Button trigger modal -->
         <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#Module01">
@@ -55,7 +53,7 @@ permalink: /formation/
         <span class="section-intro">Module 02 — </span>
         <h2>Detox- Impact de la toxicité sur le système nerveux</h2>
         <p>
-          19-20 mai 2018
+          À venir
         </p>
         <!-- Button trigger modal -->
         <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#Module02">
@@ -67,7 +65,7 @@ permalink: /formation/
         <span class="section-intro">Module 03 — </span>
         <h2>Système neuro-endocrinien</h2>
         <p>
-          20-21 octobre 2018
+          À venir
         </p>
         <!-- Button trigger modal -->
         <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#Module03">
@@ -79,7 +77,7 @@ permalink: /formation/
         <span class="section-intro">Module 04 — </span>
         <h2>Musculo-squelettique, alimentation et nutrition clinique</h2>
         <p>
-          24-25 novembre 2018
+          À venir
         </p>
 
       <!-- Button trigger modal -->
@@ -91,10 +89,6 @@ permalink: /formation/
   </div>
   </div>
   </div>
-
-  <a class="inscription-bar" target="_blank" href="https://www.eventbrite.ca/e/billets-certification-en-medecine-fonctionnelle-38152744887">
-          Je m'inscris à la formation
-  </a>
 
   <!-- Modal Module 01-->
   <div class="modal fade" id="Module01" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
