@@ -31,17 +31,16 @@ permalink: /formation/
         </li>
       </ul>
       <p>
-        Les praticiens qui ne répondent pas aux critères d'admissibilité ci-dessus peuvent cependant <a href="mailto:iqmfinfo@gmail.com">formuler une demande en nous écrivant</a>. Les candidatures  sont évaluées au cas par cas selon le niveau du programme de leur précédente la formation, et l'expérience clinique.
+        Les praticiens qui ne répondent pas aux critères d'admissibilité ci-dessus peuvent cependant <a href="mailto:info.neurologiefonctionnelle@gmail.com">formuler une demande en nous écrivant</a>. Les candidatures  sont évaluées au cas par cas selon le niveau du programme de leur précédente la formation, et l'expérience clinique.
       </p>
-      <h3>Inscrivez-vous à l’infolettre pour connaître les prochaines dates.</h3>
     </div>
 
     <div class="col-lg-4 push-lg-1">
       <div class="module-section">
         <span class="section-intro">Module 01 — </span>
-        <h2>Introduction à la neurologie fonctionnelle</h2>
+        <h2>Introduction sur les principes de la médecine fonctionnelle et de la neurologie fonctionnelle</h2>
         <p>
-          À venir
+          18-19 janvier 2020
         </p>
         <!-- Button trigger modal -->
         <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#Module01">
@@ -51,9 +50,9 @@ permalink: /formation/
 
       <div class="module-section">
         <span class="section-intro">Module 02 — </span>
-        <h2>Detox- Impact de la toxicité sur le système nerveux</h2>
+        <h2>Detox — Impact de la toxicité sur le système nerveux</h2>
         <p>
-          À venir
+          1-2 février 2020
         </p>
         <!-- Button trigger modal -->
         <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#Module02">
@@ -65,7 +64,7 @@ permalink: /formation/
         <span class="section-intro">Module 03 — </span>
         <h2>Système neuro-endocrinien</h2>
         <p>
-          À venir
+          24-25 octobre 2020
         </p>
         <!-- Button trigger modal -->
         <a href="#" class="btn btn-outline-secondary btn-rounded btn-sm" data-toggle="modal" data-target="#Module03">
@@ -77,7 +76,7 @@ permalink: /formation/
         <span class="section-intro">Module 04 — </span>
         <h2>Musculo-squelettique, alimentation et nutrition clinique</h2>
         <p>
-          À venir
+          21-22 novembre 2020
         </p>
 
       <!-- Button trigger modal -->
@@ -89,6 +88,10 @@ permalink: /formation/
   </div>
   </div>
   </div>
+
+  <p><a class="inscription-bar" target="_blank" rel="noopener" href="https://www.eventbrite.ca/e/formation-continue-sur-les-principes-de-la-medecine-fonctionnelle-et-de-la-neurologie-fonctionnelle-tickets-76385845119?aff=ebdssbdestsearch">
+          Je m’inscris à la formation
+  </a></p>
 
   <!-- Modal Module 01-->
   <div class="modal fade" id="Module01" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -102,7 +105,7 @@ permalink: /formation/
         </div>
         <div class="modal-body">
           <h2>
-            Introduction à la neurologie fonctionnelle
+            Introduction sur les principes de la médecine fonctionnelle et de la neurologie fonctionnelle
           </h2>
           <ul>
             <li>
@@ -140,11 +143,11 @@ permalink: /formation/
         </div>
         <div class="modal-body">
           <h2>
-            Détox et production d’énergie- Impact de la toxicité sur le système nerveux.
+            Detox — Impact de la toxicité sur le système nerveux
           </h2>
           <ul>
             <li>
-              En 2017, nous sommes de plus en plus exposés à un ensemble complexe de composés toxiques que ce soit dans l’air que nous respirons, l’eau que nous buvons et les aliments que nous consommons. De plus en plus d’évidences suggèrent qu’une exposition légère à certaines toxines contribuerait au développement de certaines conditions telles que la fatigue, les dérèglements hormonaux et des maladies neurodégénératives comme la maladie de Parkinson. L’habilité du corps à détoxifier, bio-activer et excréter les substances toxiques est d’une importance capitale pour une santé globale optimale.
+              Au 21e siècle, nous sommes de plus en plus exposés à un ensemble complexe de composés toxiques que ce soit dans l’air que nous respirons, l’eau que nous buvons et les aliments que nous consommons. De plus en plus d’évidences suggèrent qu’une exposition légère à certaines toxines contribuerait au développement de certaines conditions telles que la fatigue, les dérèglements hormonaux et des maladies neurodégénératives. L’habilité du corps à détoxifier, bio-activer et excréter les substances toxiques est d’une importance capitale pour une santé globale optimale.
             </li>
             <li>
               Comprendre comment la toxicité nous affecte, d’où la toxicité origine et comment améliorer notre habilité à détoxifier.
@@ -182,6 +185,9 @@ permalink: /formation/
             Système neuroendocrinien          
           </h2>
           <ul>
+            <li>
+              Comprendre les effets de perturbations neuroendocriniennes sur le système neuro-musculo-squelettique.
+            </li>
             <li>
               Comprendre les débalancements du système neuroendocrinien et l’impact des débalancements hormonaux sur la santé.
             </li>

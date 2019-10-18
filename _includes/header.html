@@ -1,56 +1,20 @@
 
-<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
-
-  {% assign default_paths = site.pages | map: "path" %}
-  {% assign page_paths = site.header_pages | default: default_paths %}
+<nav class="navbar navbar-toggleable-md navbar-light">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="#">
+  <a class="navbar-brand" href="/">
      <img class="main-logo" src="/img/logo.svg" alt="Institut neurologie fonctionnelle">
 </a>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-
-      {% for path in page_paths %}
-      {% assign my_page = site.pages | where: "path", path | first %}
-      {% if my_page.nav-name %}
-      <li class="nav-item">
-        <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.nav-name | escape }}</a>
-      </li>
-      {% endif %}
-      {% endfor %}
+    <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="/neurologiefonctionnelle/">La neurologie fonctionnelle</a></li>
+        <li class="nav-item"><a class="nav-link" href="/mission/">Notre mission</a></li>
+        <li class="nav-item"><a class="nav-link" href="/formateurs/">Nos formateurs</a></li>
+        <li class="nav-item"><a class="nav-link" href="/partenaire/">Nos partenaires</a></li>
+        <li class="nav-item"><a class="nav-link" href="/formation/">Notre formation</a></li>
 
     </ul>
 </div>
 
 </nav>
-
-<!-- <header class="navbar navbar-light">
-    <div class="row">
-      {% assign default_paths = site.pages | map: "path" %}
-      {% assign page_paths = site.header_pages | default: default_paths %}
-
-      <div class="collapse" id="navbarToggleExternalContent">
-        <div class="navbar">
-          {% for path in page_paths %}
-          {% assign my_page = site.pages | where: "path", path | first %}
-          {% if my_page.nav-name %}
-          <a class="nav h1" href="{{ my_page.url | relative_url }}">{{ my_page.nav-name | escape }}</a>
-          {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-
-      <nav>
-        <button class="btn btn-link text-primary pl-0 nav" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-          <img class="mr-2" src="/img/icons/menu.svg"/> <small>Menu</small>
-        </button>
-        <a class="navbar-brand" href="/">
-          <img class="main-logo" src="/img/footer-logo.svg" alt="Institut neurologie fonctionnelle">
-        </a>
-
-      </nav>
-
-</header> -->
