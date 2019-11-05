@@ -34,7 +34,7 @@ permalink: /formation/
         Les praticiens qui ne répondent pas aux critères d'admissibilité ci-dessus peuvent cependant <a href="mailto:info.neurologiefonctionnelle@gmail.com">formuler une demande en nous écrivant</a>. Les candidatures  sont évaluées au cas par cas selon le niveau du programme de leur précédente la formation, et l'expérience clinique.
       </p>
       <a class="btn btn-rounded btn-secondary" target="_blank" rel="noopener" href="https://www.eventbrite.ca/e/formation-continue-sur-les-principes-de-la-medecine-fonctionnelle-et-de-la-neurologie-fonctionnelle-tickets-76385845119?aff=ebdssbdestsearch">
-              Je m’inscris
+              Je m’inscris à la formation
       </a>
     </div>
 
